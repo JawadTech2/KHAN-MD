@@ -328,10 +328,37 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
 ┃◈ ${prefix}𝙰𝚞𝚝𝚘𝚁𝚎𝚊𝚍
 ┃◈ ${prefix}𝚊𝚞𝚝𝚘𝚜𝚟𝚒𝚎𝚠
 ╰━━━━━━━━━━━━━━━⪼
-╭━❮ 𝚂𝚃𝙰𝙻𝙺 ❯━╮
+╭━❮ 𝙵𝚄𝙽 ❯━╮
 ┃◈ ${prefix}𝚃𝚛𝚞𝚎𝚌𝚊𝚕𝚕𝚎𝚛
 ┃◈ ${prefix}𝙸𝚗𝚜𝚝𝚊𝚂𝚝𝚊𝚕𝚔
 ┃◈ ${prefix}𝙶𝚒𝚝𝚑𝚞𝚋𝚂𝚝𝚊𝚕𝚔
+┃◈ ${prefix}𝙺𝚒𝚕𝚕
+┃◈ ${prefix}𝙺𝚒𝚜𝚜
+┃◈ ${prefix}𝙲𝚛𝚢
+┃◈ ${prefix}𝙿𝚘𝚔𝚎
+┃◈ ${prefix}𝙷𝚒𝚐𝚑𝙵𝚒𝚟𝚎
+┃◈ ${prefix}𝙶𝚕𝚘𝚖𝚙
+┃◈ ${prefix}𝙷𝚊𝚗𝚍𝚑𝚘𝚕𝚍
+┃◈ ${prefix}𝚂𝚊𝚍
+┃◈ ${prefix}𝚆𝚊𝚟𝚎
+┃◈ ${prefix}𝙱𝚘𝚗𝚔
+┃◈ ${prefix}𝙷𝚞𝚐
+┃◈ ${prefix}𝙽𝚘𝚖
+┃◈ ${prefix}𝙿𝚊𝚝
+┃◈ ${prefix}𝙻𝚒𝚌𝚔
+┃◈ ${prefix}𝚈𝚎𝚎𝚝
+┃◈ ${prefix}𝚂𝚖𝚒𝚕𝚎
+┃◈ ${prefix}𝙱𝚕𝚞𝚜𝚑
+┃◈ ${prefix}𝙰𝚠𝚘𝚘
+┃◈ ${prefix}𝙲𝚛𝚒𝚗𝚐𝚎
+┃◈ ${prefix}𝚂𝚑𝚒𝚗𝙾𝚋𝚞
+┃◈ ${prefix}𝙲𝚞𝚍𝚍𝚕𝚎
+┃◈ ${prefix}𝙷𝚊𝚙𝚙𝚢
+┃◈ ${prefix}𝙶𝚕𝚘𝚖𝚙
+┃◈ ${prefix}𝚂𝚖𝚞𝚐
+┃◈ ${prefix}𝙳𝚊𝚗𝚌𝚎
+┃◈ ${prefix}𝚆𝚒𝚗𝚔
+┃◈ ${prefix}𝙱𝚞𝚕𝚕𝚢
 ╰━━━━━━━━━━━━━━━⪼
    `;
         let fgg = {
@@ -553,11 +580,38 @@ await Matrix.sendMessage(m.from, {
 │➥ 𝚃𝙾𝚃𝙰𝙻 𝚁𝙰𝙼: ${formatBytes(totalMemoryBytes)}
 │➥ 𝙵𝚁𝙴𝙴 𝚁𝙰𝙼: ${formatBytes(freeMemoryBytes)}
 ╰━━━━━━━━━━━━━━━➥
-╭━❮ 𝚂𝚃𝙰𝙻𝙺 ❯━╮
+╭━❮ 𝙵𝚄𝙽 ❯━╮
 ┃◈ ${prefix}𝙽𝚘𝚠𝚊
 ┃◈ ${prefix}𝚃𝚛𝚞𝚎𝚌𝚊𝚕𝚕𝚎𝚛
 ┃◈ ${prefix}𝙸𝚗𝚜𝚝𝚊𝚂𝚝𝚊𝚕𝚔
 ┃◈ ${prefix}𝙶𝚒𝚝𝚑𝚞𝚋𝚂𝚝𝚊𝚕𝚔
+┃◈ ${prefix}𝙺𝚒𝚕𝚕
+┃◈ ${prefix}𝙺𝚒𝚜𝚜
+┃◈ ${prefix}𝙲𝚛𝚢
+┃◈ ${prefix}𝙿𝚘𝚔𝚎
+┃◈ ${prefix}𝙷𝚒𝚐𝚑𝙵𝚒𝚟𝚎
+┃◈ ${prefix}𝙶𝚕𝚘𝚖𝚙
+┃◈ ${prefix}𝙷𝚊𝚗𝚍𝚑𝚘𝚕𝚍
+┃◈ ${prefix}𝚂𝚊𝚍
+┃◈ ${prefix}𝚆𝚊𝚟𝚎
+┃◈ ${prefix}𝙱𝚘𝚗𝚔
+┃◈ ${prefix}𝙷𝚞𝚐
+┃◈ ${prefix}𝙽𝚘𝚖
+┃◈ ${prefix}𝙿𝚊𝚝
+┃◈ ${prefix}𝙻𝚒𝚌𝚔
+┃◈ ${prefix}𝚈𝚎𝚎𝚝
+┃◈ ${prefix}𝚂𝚖𝚒𝚕𝚎
+┃◈ ${prefix}𝙱𝚕𝚞𝚜𝚑
+┃◈ ${prefix}𝙰𝚠𝚘𝚘
+┃◈ ${prefix}𝙲𝚛𝚒𝚗𝚐𝚎
+┃◈ ${prefix}𝚂𝚑𝚒𝚗𝙾𝚋𝚞
+┃◈ ${prefix}𝙲𝚞𝚍𝚍𝚕𝚎
+┃◈ ${prefix}𝙷𝚊𝚙𝚙𝚢
+┃◈ ${prefix}𝙶𝚕𝚘𝚖𝚙
+┃◈ ${prefix}𝚂𝚖𝚞𝚐
+┃◈ ${prefix}𝙳𝚊𝚗𝚌𝚎
+┃◈ ${prefix}𝚆𝚒𝚗𝚔
+┃◈ ${prefix}𝙱𝚞𝚕𝚕𝚢
 ╰━━━━━━━━━━━━━━━⪼`
 await Matrix.sendMessage(m.from, {
   image: fs.readFileSync('./src/khan.jpg'), 
@@ -610,68 +664,4 @@ await Matrix.sendMessage(m.from, {
    
    if (selectedId == "Ai Menu") {
      const str =`╭───❮ *s ᴇ ʀ ᴠ ᴇ ʀ* ❯
-│➥ 𝚃𝙾𝚃𝙰𝙻 𝚁𝙰𝙼: ${formatBytes(totalMemoryBytes)}
-│➥ 𝙵𝚁𝙴𝙴 𝚁𝙰𝙼: ${formatBytes(freeMemoryBytes)}
-╰━━━━━━━━━━━━━━━➥
-╭━❮ 𝙰𝙸 ❯━╮
-┃◈ ${prefix}𝙰𝚒
-┃◈ ${prefix}𝙱𝚞𝚐
-┃◈ ${prefix}𝚁𝚎𝚙𝚘𝚛𝚝
-┃◈ ${prefix}𝙶𝚙𝚝
-┃◈ ${prefix}𝙳𝚊𝚕𝚕𝚎
-┃◈ ${prefix}𝚁𝚎𝚖𝚒𝚗𝚒
-┃◈ ${prefix}𝙶𝚎𝚖𝚒𝚗𝚒
-╰━━━━━━━━━━━━━━━⪼`
-await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/khan.jpg'), 
-  caption: str, 
-  contextInfo: {
-                  mentionedJid: [m.sender], 
-                  forwardingScore: 999,
-                  isForwarded: true,
-                forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363316555500484@newsletter',
-                  newsletterName: "KHAN-MD",
-                  serverMessageId: 143
-                }
-              }
-}, {
-  quoted: m
-});
-}
-   
-   if (selectedId == "Converter Menu") {
-     const str =`╭───❮ *s ᴇ ʀ ᴠ ᴇ ʀ* ❯
-│➥ 𝚃𝙾𝚃𝙰𝙻 𝚁𝙰𝙼: ${formatBytes(totalMemoryBytes)}
-│➥ 𝙵𝚁𝙴𝙴 𝚁𝙰𝙼: ${formatBytes(freeMemoryBytes)}
-╰━━━━━━━━━━━━━━━➥
-╭━❮ 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝚁 ❯━╮
-┃◈ ${prefix}𝙰𝚃𝚃𝙿
-┃◈ ${prefix}𝙰𝚃𝚃𝙿2
-┃◈ ${prefix}𝙰𝚃𝚃𝙿3
-┃◈ ${prefix}𝙴𝙱𝙸𝙽𝙰𝚁𝚈
-┃◈ ${prefix}𝙳𝙱𝙸𝙽𝙰𝚁𝚈
-┃◈ ${prefix}𝙴𝙼𝙾𝙹𝙸𝙼𝙸𝚇
-┃◈ ${prefix}𝙼𝙿3
-╰━━━━━━━━━━━━━━━⪼
-     `
-     await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/khan.jpg'), 
-  caption: str, 
-  contextInfo: {
-                  mentionedJid: [m.sender], 
-                  forwardingScore: 999,
-                  isForwarded: true,
-                forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363316555500484@newsletter',
-                  newsletterName: "KHAN-MD",
-                  serverMessageId: 143
-                }
-              }
-}, {
-  quoted: m
-});
-}
-};
-
-export default test;
+│➥ 𝚃𝙾𝚃𝙰𝙻 𝚁𝙰𝙼: ${formatBytes(totalMemoryBy
